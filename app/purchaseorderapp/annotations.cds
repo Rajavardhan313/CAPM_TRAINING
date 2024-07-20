@@ -29,7 +29,7 @@ annotate service.POs with @(
             $Type : 'UI.DataFieldForAction',
             Action : 'CatalogService.boost',
             Label: 'boost',
-            Inline: truecds 
+            Inline: true
         },
         {
             $Type : 'UI.DataField',
